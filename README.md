@@ -11,6 +11,7 @@ Objetivos:
 - Estudiar la influencia de diferentes parámetros físicos, como la densidad del disco y la opacidad, en la transferencia radiativa.
 
 Implementación:
+
 La simulación se lleva a cabo mediante el Método Monte Carlo, una técnica numérica que utiliza el muestreo aleatorio para resolver problemas complejos. Se generan fotones con posiciones y direcciones aleatorias dentro del disco planetario y se simula su movimiento a través del medio. La absorción, dispersión y emisión de la radiación se modelan de acuerdo con las características físicas del disco.
 
 Componentes del Proyecto:
